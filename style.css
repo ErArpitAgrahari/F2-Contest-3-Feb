@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,800;0,900;1,600&display=swap");
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Mulish", sans-serif;
+}
+
+.navi01 {
+  background-color: black;
+  height: 61px;
+  padding: 21px;
+  color: white;
+}
+.butonn button {
+  background-color: black;
+  margin-top: 21px;
+  margin-left: 21px;
+  height: 31px;
+  width: 301px;
+  font-size: 15px;
+  color: rgb(248, 240, 240);
+  cursor: pointer;
+}
+table {
+  color: rgba(0, 0, 0, 0.838);
+  border: 1px solid rgba(0, 0, 0, 0.838);
+  border-collapse: collapse;
+  height: 301px;
+  width: 100%;
+  outline: none;
+  text-align: center;
+}
+
+.heads td {
+  border: 1px solid rgba(0, 0, 0, 0.838);
+  padding-left: 21px;
+}
+td {
+  border-left: 1px solid rgba(0, 0, 0, 0.838);
+  border-right: 1px solid rgba(0, 0, 0, 0.838);
+
+  padding: 21px;
+}
+.tablebox {
+  margin: 21px;
+}
+
+input {
+  height: 31px;
+  width: 151px;
+  padding: 11px;
+}
+
+.savebutt {
+  height: 31px;
+  width: 61px;
+  background-color: rgba(0, 0, 0, 0.838);
+  color: rgb(248, 240, 240);
+  cursor: pointer;
+}
